@@ -1,0 +1,61 @@
+@import url(layout.css);
+@import url(font.css);
+@import url(image.css);
+
+.card {
+    margin: 20px;
+}
+
+.navbar {
+    text-align: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    display: inline;
+    padding: 10px;
+    font-size: large;
+    text-decoration: underline;
+}
+
+.header,
+.footer {
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.sub-heading {
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+button {
+    border-radius: 5px;
+    border-color: white;
+    text-decoration: none;
+    font-size: 1em;
+    color: purple;
+}
+
+ul {
+    text-decoration: none;
+    list-style-type: circle;
+}
+
+span {
+    font-style: italic;
+    font-size: 1em;
+    font-weight: 800;
+}
+
+.spiritual-site {
+    font-size: 1.2em;
+}
+
+.author {
+    color: yellow;
+    text-align: right;
+}
